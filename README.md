@@ -44,11 +44,11 @@ O **Demo Auto Center Premium** é uma landing page institucional desenvolvida pa
 
 
 
-O projeto foi criado simulando uma solução digital para uma empresa real do segmento automotivo, com foco em transmitir confiança, profissionalismo e qualidade através de uma interface moderna e intuitiva.
+O projeto foi criado simulando uma solução digital para um negócio real do segmento automotivo, com foco em transmitir confiança, qualidade e profissionalismo através de uma interface moderna e intuitiva.
 
 
 
-A aplicação foi desenvolvida utilizando boas práticas de Front-end, organização de componentes e responsividade para garantir uma boa experiência em diferentes dispositivos.
+A aplicação foi desenvolvida utilizando tecnologias fundamentais da Web, aplicando boas práticas de estruturação HTML, estilização CSS e interações utilizando JavaScript.
 
 
 
@@ -62,13 +62,13 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 - Criar uma presença digital profissional para um auto center;
 
-- Desenvolver uma interface moderna para apresentação de serviços automotivos;
+- Desenvolver uma interface moderna voltada para apresentação de serviços;
 
-- Facilitar o acesso às informações da empresa;
+- Organizar informações da empresa de forma clara e intuitiva;
 
-- Aplicar conceitos de experiência do usuário em um projeto comercial;
+- Aplicar conceitos de UI/UX em uma solução comercial;
 
-- Desenvolver uma solução próxima às necessidades reais de negócios.
+- Criar uma página responsiva próxima às necessidades reais do mercado.
 
 
 
@@ -86,13 +86,15 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 - ✅ Seção de diferenciais da empresa;
 
-- ✅ Área de informações e contato;
+- ✅ Área de contato;
+
+- ✅ Apresentação das informações do negócio;
+
+- ✅ Navegação entre seções;
 
 - ✅ Layout responsivo para dispositivos móveis, tablets e desktops;
 
-- ✅ Interface moderna seguindo princípios de UI/UX;
-
-- ✅ Navegação otimizada entre as seções.
+- ✅ Interações utilizando JavaScript.
 
 
 
@@ -108,7 +110,7 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 
 
-<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github" />
 
 
 
@@ -120,13 +122,11 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 
 
-- **React** — Desenvolvimento da interface utilizando componentes reutilizáveis;
+- **HTML5** — Estruturação semântica da página e organização dos conteúdos;
 
-- **TypeScript** — Utilizado para garantir maior segurança e organização no código;
+- **CSS3** — Desenvolvimento do layout, identidade visual e responsividade;
 
-- **Vite** — Ferramenta moderna para desenvolvimento e otimização do build;
-
-- **Tailwind CSS** — Criação da interface responsiva e estilização dos componentes;
+- **JavaScript** — Implementação de interações e comportamentos dinâmicos;
 
 - **Git/GitHub** — Controle de versão e gerenciamento do projeto.
 
@@ -140,7 +140,33 @@ A aplicação foi desenvolvida utilizando boas práticas de Front-end, organiza�
 
 
 
-A aplicação foi estruturada utilizando componentes independentes, permitindo uma melhor organização do código e facilitando futuras melhorias ou adaptações.
+A aplicação foi organizada utilizando uma estrutura tradicional de desenvolvimento Web, separando responsabilidades entre marcação, estilos e scripts.
+
+
+
+Exemplo:
+
+
+
+```
+projeto
+
+├── index.html
+
+├── css
+
+│   └── style.css
+
+│
+
+└── js
+
+    └── script.js
+```
+
+
+
+Essa organização facilita a manutenção do código e permite futuras evoluções do projeto.
 
 
 
@@ -160,27 +186,29 @@ Durante o desenvolvimento, alguns desafios importantes foram trabalhados:
 
 
 
-Garantir que a experiência da aplicação permanecesse consistente em diferentes tamanhos de tela, adaptando:
+Criar uma interface adaptável para diferentes tamanhos de tela, garantindo que informações como serviços, imagens e chamadas principais permanecessem bem distribuídas.
 
 
 
-- textos;
+Foram considerados:
 
-- imagens;
 
-- seções;
+
+- organização dos conteúdos;
+
+- adaptação dos elementos visuais;
 
 - espaçamentos;
 
-- elementos de navegação.
+- experiência em dispositivos móveis.
 
 
 
-### 🎨 Construção de uma identidade visual automotiva
+### 🎨 Construção da identidade visual automotiva
 
 
 
-Criar uma interface que transmitisse características importantes para o segmento:
+Desenvolver uma interface alinhada ao segmento automotivo, transmitindo características como:
 
 
 
@@ -188,17 +216,17 @@ Criar uma interface que transmitisse características importantes para o segment
 
 - tecnologia;
 
-- profissionalismo;
+- desempenho;
 
-- qualidade nos serviços.
-
-
-
-### 🧱 Organização dos componentes
+- profissionalismo.
 
 
 
-Estruturar a aplicação utilizando componentes reutilizáveis, evitando repetição de código e facilitando a manutenção do projeto.
+### ⚡ Interações com JavaScript
+
+
+
+Implementar comportamentos dinâmicos utilizando JavaScript puro, proporcionando uma navegação mais fluida e uma experiência melhor para o usuário.
 
 
 
@@ -216,13 +244,15 @@ Com esse projeto foi possível aprimorar:
 
 - Desenvolvimento de landing pages comerciais;
 
-- Criação de interfaces para diferentes segmentos profissionais;
+- Estruturação semântica utilizando HTML5;
 
-- Organização de componentes React;
+- Criação de layouts responsivos com CSS3;
 
-- Construção de layouts responsivos;
+- Manipulação do DOM com JavaScript;
 
-- Desenvolvimento de soluções digitais voltadas para empresas.
+- Organização de projetos Front-end;
+
+- Criação de soluções digitais para diferentes segmentos.
 
 
 
@@ -240,15 +270,15 @@ Algumas melhorias que podem ser implementadas:
 
 - [ ] Integração com WhatsApp para orçamento;
 
-- [ ] Sistema de agendamento de serviços;
+- [ ] Formulário de solicitação de serviços;
 
-- [ ] Formulário de solicitação de orçamento;
+- [ ] Sistema de agendamento;
 
 - [ ] Integração com Google Maps;
 
-- [ ] Área administrativa para gerenciamento de serviços;
+- [ ] Melhorias avançadas de SEO;
 
-- [ ] Otimizações avançadas de SEO.
+- [ ] Otimização de performance.
 
 
 
@@ -280,23 +310,17 @@ cd demo-auto-center-premium
 
 
 
-Execute os comandos via terminal dentro da pasta do projeto:
+Abra o arquivo:
 
 
 
-```bash
-npm install
-
-npm run dev
+```
+index.html
 ```
 
 
 
-Acesse no navegador:
-
-
-
-http://localhost:5173
+Ou utilize uma extensão como **Live Server** para executar o projeto localmente.
 
 
 
@@ -304,7 +328,7 @@ http://localhost:5173
 
 
 
-**👨‍💻 Autor**
+## 👨‍💻 Autor
 
 
 
