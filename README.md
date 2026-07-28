@@ -153,15 +153,9 @@ projeto
 
 ├── index.html
 
-├── css
+├── style.css
 
-│   └── style.css
-
-│
-
-└── js
-
-    └── script.js
+└── script.js
 ```
 
 
